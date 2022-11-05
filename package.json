@@ -1,0 +1,10 @@
+{
+  "name": "@wcd/orachun-chun.cevue-la3p3x5s",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve kldGEMUuvjc5rleNckhY --open"
+  },
+  "dependencies": {
+    "vue": "next"
+  }
+}
